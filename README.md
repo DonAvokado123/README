@@ -17,3 +17,6 @@
 # Тема
 
 ## тема этого проекта заключается в дискорд боте который при команде !fakts даёт рандомный факт об экологии
+
+ссылка на презентацию 
+https://docs.google.com/presentation/d/1oflBV-HmIvFm3kBxOmVPA_enjZlFYeTnIpBBquRsehY/edit?usp=sharing
